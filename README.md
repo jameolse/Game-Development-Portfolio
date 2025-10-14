@@ -4,6 +4,6 @@
 
 ### Space Game
 
-![SpaceGame] (https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
+![SpaceGame](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 
 Defend the Earth from a barrage of terrifying planet gods
