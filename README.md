@@ -7,3 +7,7 @@
 ![SpaceGame](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 
 Defend the Earth from a barrage of terrifying planet gods
+
+*[Windows EXE](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
+*[Mac App](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
+*[Linux Executable](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
