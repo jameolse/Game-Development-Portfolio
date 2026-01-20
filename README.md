@@ -1,12 +1,10 @@
 # James Olsen Game Development Portfolio 2025
 
-## Term 1 Projects
-
-### Atlas Forever
+## Life Simulation Game
 
 ![SpaceGame](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 
-You are the last of a fleet defenders attempting to save the Earth from a barrage of terrifying planet gods. The survival of humanity rides on your shoulders. Use the mouse to move, and click to shoot. Get powerups that turn you into a ball of pure energy, making you effectively a giant laser. Remember that with every shot you fire, the planet gods grow larger in number. Fire every shot sparingly.
+You have to keep a little ecosystem alive. It's based around soil. Dead creatures make richer soil, meaning more plants, more plants, meaning more food for creatures. Parasites will be on plants, and enter animal host when eaten. They will hurt the animal host and eventually kill it, and spread into a bunch of spores/eggs when the creature is killed so they can be reborn in more plants. Little flies will eat the spores and eggs when they are exposed, though. You have to choose the population, and lifespan of each creature to see how long you can keep an ecosystem going.
 
 * [Windows EXE](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 * [Mac App](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
