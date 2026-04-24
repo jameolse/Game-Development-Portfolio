@@ -1,7 +1,7 @@
 # James Olsen Game Development Portfolio 2025
 
 <details>
-  <summary>##Life Simulation Game</summary>
+  <summary>Life Simulation Game</summary>
   
 ![Visuals](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/2LkLvC.png)
 ![Visuals]([https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/2LkLvC.png](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/thumbnail.png))
@@ -16,7 +16,10 @@ You have to keep a little ecosystem alive. It's based around soil. Dead creature
 
 </details>
 
+<details>
+  <summary>ALBATROSS</summary>
 
 ## ALBATROSS
 
 Alone and hunted on a boat in the middle of a sunken world.
+</details>
