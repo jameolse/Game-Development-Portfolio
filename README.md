@@ -1,7 +1,8 @@
 # James Olsen Game Development Portfolio 2025
 
-## Life Simulation Game
-
+<details>
+  <summary>##Life Simulation Game</summary>
+  
 ![Visuals](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/2LkLvC.png)
 ![Visuals]([https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/2LkLvC.png](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/thumbnail.png))
 
@@ -12,6 +13,8 @@ You have to keep a little ecosystem alive. It's based around soil. Dead creature
 * [Mac App](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 * [Linux Executable](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true)
 * [Source Code](https://github.com/jameolse/Game-Development-Portfolio/tree/77d8cf7b0f2de0555ae99d85837980c3dc181b82/src/SpaceGame)
+
+</details>
 
 
 ## ALBATROSS
