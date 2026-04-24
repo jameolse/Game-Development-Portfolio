@@ -22,4 +22,7 @@ You have to keep a little ecosystem alive. It's based around soil. Dead creature
 ## ALBATROSS
 
 Alone and hunted on a boat in the middle of a sunken world.
+
+![Visuals](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross1.png)
+![Visuals](https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross2.png)
 </details>
