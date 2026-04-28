@@ -1,5 +1,4 @@
 html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -98,7 +97,7 @@ html
     <details>
         <summary>Life Simulation Game</summary>
         <div class="gallery">
-            <img src="https://github.com" alt="Ecosystem Gameplay">
+            <img src="https://github.com/jameolse/Game-Development-Portfolio/tree/main/images/thumbnail.png">
             <img src="https://github.com" alt="Ecosystem Thumbnail">
         </div>
         <p>
@@ -121,8 +120,8 @@ html
         <summary>ALBATROSS</summary>
         <h3>Alone and hunted on a boat in the middle of a sunken world.</h3>
         <div class="gallery">
-            <img src="https://github.com" alt="Albatross Screenshot 1">
-            <img src="https://github.com" alt="Albatross Screenshot 2">
+            <img src="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross1.png">
+            <img src="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross2.png">
         </div>
     </details>
 
