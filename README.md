@@ -1,4 +1,4 @@
-html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,6 @@ html
             --accent-color: #4da6ff;
             --border-color: #333;
         }
-
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             line-height: 1.6;
@@ -22,13 +21,11 @@ html
             margin: 40px auto;
             padding: 0 20px;
         }
-
         h1 {
             border-bottom: 2px solid var(--border-color);
             padding-bottom: 10px;
             text-align: center;
         }
-
         details {
             background: var(--card-bg);
             margin-bottom: 20px;
@@ -37,7 +34,6 @@ html
             border: 1px solid var(--border-color);
             transition: all 0.3s ease;
         }
-
         summary {
             font-size: 1.4rem;
             font-weight: bold;
@@ -45,45 +41,43 @@ html
             outline: none;
             color: var(--accent-color);
         }
-
         details[open] summary {
             margin-bottom: 15px;
             border-bottom: 1px solid var(--border-color);
             padding-bottom: 10px;
         }
-
         .gallery {
             display: flex;
-            gap: 10px;
+            gap: 15px;
             flex-wrap: wrap;
             margin: 15px 0;
         }
-
         .gallery img {
-            max-width: 100%;
+            max-width: calc(50% - 10px);
             height: auto;
             border-radius: 4px;
             border: 1px solid var(--border-color);
         }
-
+        /* Mobile adjustment for images */
+        @media (max-width: 600px) {
+            .gallery img {
+                max-width: 100%;
+            }
+        }
         .links {
             list-style: none;
             padding: 0;
         }
-
         .links li {
             margin: 8px 0;
         }
-
         .links a {
             color: var(--accent-color);
             text-decoration: none;
         }
-
         .links a:hover {
             text-decoration: underline;
         }
-
         p {
             color: #b0b0b0;
         }
@@ -94,24 +88,26 @@ html
     <h1>James Olsen Game Development Portfolio 2025</h1>
 
     <!-- Life Simulation Game -->
-    <details>
+    <details open>
         <summary>Life Simulation Game</summary>
         <div class="gallery">
-            <img src="https://github.com/jameolse/Game-Development-Portfolio/tree/main/images/thumbnail.png">
-            <img src="https://github.com" alt="Ecosystem Thumbnail">
+            <!-- Fixed: Raw GitHub link for the thumbnail -->
+            <img src="https://raw.githubusercontent.com/jameolse/Game-Development-Portfolio/main/images/thumbnail.png" alt="Life Sim Thumbnail">
         </div>
         <p>
-            You have to keep a little ecosystem alive. It's based around soil. Dead creatures make richer soil, meaning more plants; more plants mean more food for creatures. 
-            Parasites will be on plants and enter animal hosts when eaten. They will hurt the host and eventually kill it, spreading spores/eggs upon death to reborn in plants. 
-            Little flies will eat the exposed spores and eggs. You must choose the population and lifespan of each creature to see how long the ecosystem survives.
+            You have to keep a little ecosystem alive. It's based around soil. Dead creatures make richer soil, meaning more plants; 
+            more plants mean more food for creatures. Parasites will be on plants and enter animal hosts when eaten. 
+            They will hurt the host and eventually kill it, spreading spores/eggs upon death to reborn in plants. 
+            Little flies will eat the exposed spores and eggs. You must choose the population and lifespan of each creature to see 
+            how long the ecosystem survives.
         </p>
         <ul class="links">
             <li><strong>Downloads:</strong> 
-                <a href="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true">Windows EXE</a> | 
-                <a href="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true">Mac App</a> | 
-                <a href="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/spacegame.png?raw=true">Linux Executable</a>
+                <a href="#">Windows EXE</a> | 
+                <a href="#">Mac App</a> | 
+                <a href="#">Linux Executable</a>
             </li>
-            <li><a href="https://github.com/jameolse/Game-Development-Portfolio/tree/77d8cf7b0f2de0555ae99d85837980c3dc181b82/src/SpaceGame">View Source Code</a></li>
+            <li><a href="https://github.com" target="_blank">View Source Code</a></li>
         </ul>
     </details>
 
@@ -120,8 +116,9 @@ html
         <summary>ALBATROSS</summary>
         <h3>Alone and hunted on a boat in the middle of a sunken world.</h3>
         <div class="gallery">
-            <img src="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross1.png">
-            <img src="https://github.com/jameolse/Game-Development-Portfolio/blob/main/images/Albatross2.png">
+            <!-- Fixed: Raw GitHub links for Albatross screenshots -->
+            <img src="https://raw.githubusercontent.com/jameolse/Game-Development-Portfolio/main/images/Albatross1.png" alt="Albatross Gameplay 1">
+            <img src="https://raw.githubusercontent.com/jameolse/Game-Development-Portfolio/main/images/Albatross2.png" alt="Albatross Gameplay 2">
         </div>
     </details>
 
