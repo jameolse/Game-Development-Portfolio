@@ -85,7 +85,7 @@
 </head>
 <body>
 
-    <h1>James Olsen Game Development Portfolio 2025</h1>
+    <h1>Projects</h1>
 
     <!-- Life Simulation Game -->
     <details open>
